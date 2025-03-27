@@ -29,13 +29,13 @@
 ## UNIT 3
 * Experiment 1: Reinforcement Learning for Path Planning
   ```
-  u3_exp1.py
+  python3 u3_exp1.py
   ```
 * Experiment 2: Deep Learning for Object Detection in Robotics
   ```
-  u3_exp2.py
+  python3 u3_exp2.py
   ```
 * Experiment 3: Integrating Reinforcement and Deep Learning for Robotic Arm Control
   ```
-  u3_exp3.py
+  python3 u3_exp3.py
   ```
